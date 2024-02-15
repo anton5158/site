@@ -8,7 +8,7 @@ const emit = defineEmits(['openDrawer'])
       <div class="flex items-center gap-4">
         <img src="/logo.png" alt="Logo" class="w-10" />
         <div>
-          <h2 class="text-xl font-bold uppercase">Мой магазин</h2>
+          <h2 class="text-xl font-bold uppercase">Natri art's</h2>
           <p class="text-slate-400">Магазин картин</p>
         </div>
       </div>
